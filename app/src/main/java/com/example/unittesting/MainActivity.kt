@@ -24,6 +24,7 @@ class MainActivity : ComponentActivity() {
                 ) {
                     Greeting("Android")
                     println("This is test")
+                    println("This chenge from githubside")
                 }
             }
         }
